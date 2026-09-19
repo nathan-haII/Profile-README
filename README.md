@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Nathan Hall</h1>
 
 <p align="center">
 Computer Science student focused on building practical software and growing as an engineer.
@@ -59,11 +59,11 @@ Short description of what this project does and the problem it solves.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=default" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nathan-haII&show_icons=true&theme=default" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathan-HaII" alt="GitHub Streak"/>
 </p>
 
 ---

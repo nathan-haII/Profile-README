@@ -36,7 +36,6 @@ Computer Science student focused on building practical software and growing as a
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 
-> Edit the badges above to match your actual stack — add or remove languages/tools as needed.
 
 ---
 

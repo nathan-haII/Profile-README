@@ -14,7 +14,7 @@ Computer Science student focused on building practical software and growing as a
 
 ## About Me
 
--Currently studying **Computer Science** at McMaster University
+-Currently studying **Computer Science** at McMaster University (2029 Expected Grad)
 - Interested in ML (Computer Vision, Anomaly Detection), Data Science
 - Portfolio: **https://nathan-haii.github.io/**
 

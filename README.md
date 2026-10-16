@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nathan Hall</h1>
 
 <p align="center">
-Computer Science student focused on building practical software and growing as an engineer.
+McMaster Computer Science student focused on building practical software and growing as an engineer.
 </p>
 
 <p align="center">

@@ -49,7 +49,7 @@ A Python command-line tool that transforms a photo of a document into a clean, t
 ---
 
 ### 🔧 [License Plate Identifier](https://github.com/[your-username]/[repo-name])
-Takes in a picture of a car. Transformes into a photo of a scanned license plate letter by letter
+Takes in a picture of a car. Transforms into a photo of a scanned license plate letter by letter
 
 **Tech:** Python, OpenCV, NumPy, scikit-image
 
